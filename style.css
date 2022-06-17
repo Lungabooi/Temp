@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(./image/mountains-7191235_1920.jpg);
+    position: center;
+    background-attachment: fixed;
+
+}
+
+#tempCalc{
+    background-color: #b2b2b2;
+    background-color: rgba(0, 0, 0, .3);
+    height:fit-content;
+  
+
+
+    
+}
